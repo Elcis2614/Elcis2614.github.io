@@ -104,30 +104,27 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "Cishugi Elisée B."
+  avatar           : "/assets/images/profile.jpeg"
+  bio              : "Student in Software engineering"
+  location         : "Gatineau, Quebec"
+  email            : "elisereflorbusole@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:elisereflorbusole@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      # url: "https://github.com/Elcis2614"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-inkedin"
+      url: "https://www.linkedin.com/in/elis%C3%A9e-cishugi-67a52a240/"
 
 # Site Footer
 footer:
