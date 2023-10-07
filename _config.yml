@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Cishugi Elisée B."
-  avatar           : "/assets/images/profile.jpeg"
+  avatar           : "/assets/images/profile.png"
   bio              : "Student in Software engineering"
   location         : "Gatineau, Quebec"
   email            : "elisereflorbusole@gmail.com"
@@ -113,18 +113,12 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:elisereflorbusole@gmail.com"
-    - label: "Website"
+    - label: "Linkedin"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.linkedin.com/in/elis%C3%A9e-cishugi-67a52a240/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/Elcis2614"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-inkedin"
-      url: "https://www.linkedin.com/in/elis%C3%A9e-cishugi-67a52a240/"
+      url: "https://github.com/Elcis2614"
 
 # Site Footer
 footer:
@@ -278,6 +272,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
