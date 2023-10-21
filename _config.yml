@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "My Portofolio"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Elisée Cishugi B."
@@ -107,14 +107,14 @@ author:
   name             : "Cishugi Elisée B."
   avatar           : "/assets/images/profile.png"
   bio              : "Student in Software engineering"
-  location         : "Gatineau, Quebec"
+  location         : "Quebec"
   email            : "elisereflorbusole@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:elisereflorbusole@gmail.com"
     - label: "Linkedin"
-      icon: "fas fa-fw fa-link"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/elis%C3%A9e-cishugi-67a52a240/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
